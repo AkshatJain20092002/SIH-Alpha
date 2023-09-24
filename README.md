@@ -12,7 +12,7 @@ The tool then uses a real-time database to check the doctors' availability.
 
 The tool then assigns the patient to the most suitable doctor and books their appointment.
 
-##UI/UX
+## UI/UX
 
 The patient is then notified of their appointment time and location.
 ![image](https://github.com/AkshatJain20092002/SIH-MYDOCVISIT/assets/134300220/39bd52ec-4a90-4980-ae7f-813b25b27e7f)
