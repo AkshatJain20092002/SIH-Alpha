@@ -1,4 +1,23 @@
 # SIH-Alpha
+User Registration and Profile Creation:
+Patients register and provide personal information and medical history.
+Profiles help recommend doctors and assess health needs.
+
+  Doctor Availability Detection:
+Facial recognition tracks doctors entering/leaving.
+Updates real-time availability status.
+
+  Appointment Scheduling:
+Users find doctors using NLP recommendations.
+Book appointments based on doctor availability.
+
+  Real-Time Database Management:
+Maintains up-to-date data on doctors and patients.
+Ensures efficient appointment allocation.
+
+  Patient Experience Improvement:
+Aims to reduce patient wait times.
+Provides personalized doctor recommendations.
 
 ## Process
 
