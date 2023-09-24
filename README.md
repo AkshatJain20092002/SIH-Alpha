@@ -1,4 +1,7 @@
-# SIH-Alpha
+# SIH- MYDOCVISIT
+
+## Team Name
+The Alfa
 
 
 User Registration and Profile Creation:
